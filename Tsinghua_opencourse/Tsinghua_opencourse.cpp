@@ -2,10 +2,14 @@
 //
 
 #include "stdafx.h"
+#include <iostream>
+using namespace std;
 
 
 int main()
-{
+{	
+	cout << "hello!\n";
+	cout << sizeof(int) << endl;
     return 0;
 }
 
