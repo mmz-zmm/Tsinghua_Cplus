@@ -29,7 +29,10 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Tsinghua_opencourse.h">
+    <ClCompile Include="C_51.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C_52.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
