@@ -31,7 +31,7 @@ Base1::Base1(int a) :x(a) {}
 Base2::Base2(int a) :x(a) {}
 Derived::Derived(Base1& a, Base2 &b) : Base1(a.x), Base2(b.x), x(a.x + b.x) {}
 
-int main()
+int C_73()
 {
 	int x, y;
 	cin >> x >> y;
